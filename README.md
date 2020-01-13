@@ -1,5 +1,5 @@
-# BinghamTutorSupport
-BinghamTutor
+# BinghamAdvisorSupport
+BinghamAdvisor
 
 The new version of BinghamTutor is online!
 
